@@ -1,0 +1,91 @@
+._card{
+    color: red;
+    background-color:blue;
+    border: radius 5px;
+    box-shadow: 5px 5px 10px;
+    width: 250px;
+    
+}
+
+.spongebob{
+    width: 250px;
+    height: 158px;
+    border-radius: 158px;
+}
+
+
+.gabay{
+    color: coral;
+background-color: coral;
+}
+
+
+.btn-send {
+    background-color: red;
+    border: radius 5px;;
+    border:solid none ;
+    transition-duration: 0.3s;
+}
+
+
+.btn-send:hover {
+    background-color: greenyellow;
+    color: magenta;
+  cursor: pointer;
+}
+
+
+
+
+.dropdown-menu {
+width: 250px;
+
+
+}
+
+
+
+/* .col{
+    width:25%;
+    display:inline-block;
+    height:10%;
+} */
+
+
+.card-img{
+height: 450px;
+border-radius: 5px 5px 0pxx 0px;
+
+}
+
+.card-body{
+background-color:gray;
+
+
+}
+
+
+
+
+
+.col{
+width: 300px;
+display: inline-block;
+height: 10%;
+margin-left: 10px;
+}
+.about-me {
+text-align: right;
+border:solid 1px gray;
+border-radius: 15px;
+padding: 15px;
+
+
+}
+
+
+.about-img{
+border-radius: 15px;
+
+
+}
